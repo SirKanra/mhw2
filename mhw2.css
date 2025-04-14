@@ -48,7 +48,6 @@
     font-size: medium;
     color: whitesmoke;
     justify-content: center;
-    filter: invert();
   }
 
   .off-screen-menu.active {
